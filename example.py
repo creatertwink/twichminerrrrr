@@ -83,7 +83,7 @@ twitch_miner = TwitchChannelPointsMiner(
     ),
     streamer_settings=StreamerSettings(
         make_predictions=True,                  # If you want to Bet / Make prediction
-        follow_raid=False,                       # Follow raid to obtain more points
+        follow_raid=True,                       # Follow raid to obtain more points
         claim_drops=True,                       # We can't filter rewards base on stream. Set to False for skip viewing counter increase and you will never obtain a drop reward from this script. Issue #21
         claim_moments=True,                     # If set to True, https://help.twitch.tv/s/article/moments will be claimed when available
         watch_streak=True,                      # If a streamer go online change the priority of streamers array and catch the watch screak. Issue #11
@@ -93,7 +93,7 @@ twitch_miner = TwitchChannelPointsMiner(
             strategy=Strategy.SMART,            # Choose you strategy!
             percentage=5,                       # Place the x% of your channel points
             percentage_gap=20,                  # Gap difference between outcomesA and outcomesB (for SMART strategy)
-            max_points=2000,                   # If the x percentage of your channel points is gt bet_max_points set this value
+            max_points=5000,                   # If the x percentage of your channel points is gt bet_max_points set this value
             stealth_mode=True,                  # If the calculated amount of channel points is GT the highest bet, place the highest value minus 1-2 points Issue #33
             delay_mode=DelayMode.FROM_END,      # When placing a bet, we will wait until `delay` seconds before the end of the timer
             delay=6,
@@ -140,6 +140,7 @@ twitch_miner.mine(
         Streamer("HuntressZee"), #Once human
         Streamer("RhymeVT") #marvel rivals
 
+    
 
 
        
