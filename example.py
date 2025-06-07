@@ -138,6 +138,7 @@ twitch_miner.mine(
         Streamer("sadicaz"),
         Streamer("Enardo"),    #rust
         Streamer("HuntressZee"), #Once human
+        Streamer("RhymeVT") #marvel rivals
 
 
 
