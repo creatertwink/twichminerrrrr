@@ -122,7 +122,7 @@ twitch_miner.mine(
 
         
         Streamer("pan1x_t0p"),
-        Streamer("velichyt"), 
+        Streamer("IXUMEPA"),  
         Streamer("adhh_spasibo"),
         Streamer("ahega_chan"), 
         Streamer("nsh4rk"), 
