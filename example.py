@@ -132,42 +132,42 @@ twitch_miner.mine(
         Streamer("Mixwell"),
         Streamer("elxokas"),
         #обычные
-        Streamer("pan1x_t0p"),
-        Streamer("IXUMEPA"), 
-        Streamer("adhh_spasibo"),
-        Streamer("ahega_chan"), 
-        Streamer("nsh4rk"), 
-        Streamer("chromaticq"),
-        Streamer("SkullCJay"),
-        Streamer("boHHoc"),
-        Streamer("BL33D3D"),
-        Streamer("KarfagenSC"),
-        Streamer("dopefaceTV"),
-        Streamer("tigr_play1"),
-        Streamer("REENEKU"),
-        Streamer("whithblade"), #albion
-        Streamer("sadicaz"),
-        Streamer("Enardo"),    #rust
-        Streamer("HuntressZee"), #Once human
-        Streamer("RhymeVT") #marvel rivals
-        Streamer("pan1x_t0p"),
-        Streamer("IXUMEPA"),  
-        Streamer("adhh_spasibo"),
-        Streamer("ahega_chan"), 
-        Streamer("nsh4rk"), 
-        Streamer("chromaticq"),
-        Streamer("SkullCJay"),
-        Streamer("boHHoc"),
-        Streamer("BL33D3D"),
-        Streamer("KarfagenSC"),
-        Streamer("dopefaceTV"),
-        Streamer("tigr_play1"),
-        Streamer("REENEKU"),
-        Streamer("whithblade"), #albion
-        Streamer("sadicaz"),
-        Streamer("Enardo"),    #rust
-        Streamer("HuntressZee"), #Once human
-        Streamer("RhymeVT") #marvel rivals
+        #Streamer("pan1x_t0p"),
+        #Streamer("IXUMEPA"), 
+        #Streamer("adhh_spasibo"),
+        #Streamer("ahega_chan"), 
+        #Streamer("nsh4rk"), 
+        #Streamer("chromaticq"),
+        #Streamer("SkullCJay"),
+        #Streamer("boHHoc"),
+        #Streamer("BL33D3D"),
+        #Streamer("KarfagenSC"),
+        #Streamer("dopefaceTV"),
+        #Streamer("tigr_play1"),
+        #Streamer("REENEKU"),
+        #Streamer("whithblade"), #albion
+        #Streamer("sadicaz"),
+        #Streamer("Enardo"),    #rust
+        #Streamer("HuntressZee"), #Once human
+        #Streamer("RhymeVT"), #marvel rivals
+        #Streamer("pan1x_t0p"),
+        #Streamer("IXUMEPA"),  
+        #Streamer("adhh_spasibo"),
+        #Streamer("ahega_chan"), 
+        #Streamer("nsh4rk"), 
+        #Streamer("chromaticq"),
+        #Streamer("SkullCJay"),
+        #Streamer("boHHoc"),
+        #Streamer("BL33D3D"),
+        #Streamer("KarfagenSC"),
+        #Streamer("dopefaceTV"),
+        #Streamer("tigr_play1"),
+        #Streamer("REENEKU"),
+        #Streamer("whithblade"), #albion
+        #Streamer("sadicaz"),
+        #Streamer("Enardo"),    #rust
+        #Streamer("HuntressZee"), #Once human
+        #Streamer("RhymeVT") #marvel rivals
 
     
 
