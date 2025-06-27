@@ -121,14 +121,14 @@ twitch_miner.mine(
     [
 
         #раст отедльные стримеры
-        Streamer("Carola"),
+        #Streamer("Carola"),
         Streamer("Ricoy"),
-        Streamer("aroyitt"),
-        Streamer("Agustabell212"),
-        Streamer("Silithur"),
+       # Streamer("aroyitt"),
+       # Streamer("Agustabell212"),
+       # Streamer("Silithur"),
         Streamer("StarWraith"),
-        Streamer("Staryuuki"),
-        Streamer("CrystalMolly"),
+      #  Streamer("Staryuuki"),
+       # Streamer("CrystalMolly"),
         Streamer("Mixwell"),
         Streamer("elxokas"),
         #обычные
