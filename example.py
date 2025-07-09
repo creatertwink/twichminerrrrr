@@ -120,18 +120,6 @@ twitch_miner = TwitchChannelPointsMiner(
 twitch_miner.mine(
     [
 
-        #раст отедльные стримеры
-        #Streamer("Carola"),
-        #Streamer("Ricoy"),
-        #Streamer("aroyitt"),
-        #Streamer("Agustabell212"),
-        #Streamer("Silithur"),
-        #Streamer("StarWraith"),
-        #Streamer("Staryuuki"),
-        #Streamer("CrystalMolly"),
-        #Streamer("Mixwell"),
-        #Streamer("elxokas"),
-        #обычные
         Streamer("pan1x_t0p"),
         Streamer("IXUMEPA"), 
         Streamer("adhh_spasibo"),
