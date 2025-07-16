@@ -134,10 +134,9 @@ twitch_miner.mine(
         Streamer("tigr_play1"),
         Streamer("REENEKU"),
         Streamer("whithblade"), #albion
-        Streamer("sadicaz"),
         Streamer("Enardo"),    #rust
         Streamer("HuntressZee"), #Once human
-        Streamer("RhymeVT"), #marvel rivals
+        Streamer("RhymeVT") #marvel rivals
 
 
     
@@ -146,7 +145,6 @@ twitch_miner.mine(
        
  
         
-
 
     ],                                  # Array of streamers (order = priority)
     followers=False,                    # Automatic download the list of your followers
